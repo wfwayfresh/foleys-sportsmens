@@ -121,7 +121,7 @@ BAR = """
 <section class="wrap"><div class="gallery"><img src="images/cocktail.jpg" alt="A cocktail" loading="lazy"><img src="images/booths.jpg" alt="Booths and TVs" loading="lazy"><img src="images/st-pats.jpg" alt="Staff celebrating St. Patrick's Day" loading="lazy"></div></section>"""
 
 EVENTS = """
-<section class="pagehead" style="background-image:url(images/st-pats.jpg)"><div><p class="kicker">Entertainment schedule</p><h1>Come for dinner, stay for the fun</h1></div></section>
+<section class="pagehead" style="background-image:url(images/st-pats.jpg);background-position:center 28%"><div><p class="kicker">Entertainment schedule</p><h1>Come for dinner, stay for the fun</h1></div></section>
 <section class="wrap split"><div>
 <h2>Plant Bingo</h2><p>Hosted with My Artful Studio: ten rounds of bingo where plants are the prizes, plus raffles and giveaways. Everyone gets a plant when they arrive. Bingo nights come with specials like half-price appetizers and desserts and $4 cocktails.</p>
 <p><b>These sell out.</b> Watch our Facebook for the next date and grab your seat early.</p>
