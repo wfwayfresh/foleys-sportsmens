@@ -58,7 +58,7 @@ HOME = f"""
 
 <section class="wrap split rev"><figure class="flyer"><img src="images/plant-bingo.jpg" alt="Plant Bingo night flyer" loading="lazy"></figure><div>
 <p class="kicker">Always something going on</p><h2>Plant Bingo, karaoke & live music</h2>
-<p>Plant Bingo nights sell out fast, with everyone going home with a plant. Karaoke with DJ Rybo takes over the first Saturday of the month, and live music drops in throughout the year.</p>
+<p>Plant Bingo nights sell out fast, with everyone going home with a plant. Karaoke with DJ Rybo takes over the 1st and 3rd Saturday of the month, and live music drops in throughout the year.</p>
 <a class="btn" href="events.html">What's coming up</a></div></section>
 
 <section class="band"><div class="wrap split"><div>
@@ -127,7 +127,7 @@ EVENTS = """
 <p><b>These sell out.</b> Watch our Facebook for the next date and grab your seat early.</p>
 </div><figure class="flyer"><img src="images/plant-bingo.jpg" alt="Plant Bingo flyer" loading="lazy"></figure></section>
 <section class="dark"><div class="wrap split rev"><figure class="flyer"><img src="images/karaoke.jpg" alt="Karaoke with DJ Rybo flyer" loading="lazy"></figure><div>
-<h2>Karaoke with DJ Rybo</h2><p class="big">First Saturday of the month · 8:30pm – midnight</p><p>Grab the mic or just cheer everyone else on.</p>
+<h2>Karaoke with DJ Rybo</h2><p class="big">1st and 3rd Saturday of the month · 8:30pm – midnight</p><p>Grab the mic or just cheer everyone else on.</p>
 <h2>Live music & game days</h2><p>Live acoustic nights pop up throughout the year, and every Lions game comes with buy-one-get-one boneless wings.</p></div></div></section>"""
 
 PARTIES = f"""
