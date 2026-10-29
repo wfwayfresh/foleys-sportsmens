@@ -43,7 +43,7 @@ document.getElementById('inqform').addEventListener('submit',async e=>{
  e.preventDefault();const f=e.target,m=document.getElementById('inqmsg');
  if(!f.checkValidity()){f.reportValidity();return}
  m.textContent='Sending…';
- try{const r=await fetch('https://formsubmit.co/ajax/kurko@att.net',{method:'POST',headers:{'Accept':'application/json'},body:new FormData(f)});
+ try{const r=await fetch('https://demo-pulse-ten.vercel.app/api/inquiry',{method:'POST',headers:{'Accept':'application/json'},body:new FormData(f)});
   const j=await r.json(); if(String(j.success)==='true'){f.reset();m.textContent="Thank you! We got your inquiry and will be in touch soon."} else {m.textContent="Sorry, that didn't go through. Please call (248) 623-1122."}
  }catch(err){m.textContent="Sorry, that didn't go through. Please call (248) 623-1122."}
 });
